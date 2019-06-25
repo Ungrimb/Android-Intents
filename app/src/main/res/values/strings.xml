@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="action_settings">Settings</string>
+    <string name="web">Go</string>
+    <string name="call">GO</string>
+    <string name="calendar">PROGRAM</string>
+    <string name="text">OPEN</string>
+    <string name="date_selected"></string>
+    <string name="introdueix_web">Introdueix Web</string>
+    <string name="introdueix_telefon">Introdueix Telefon</string>
+    <string name="text2">Text</string>
+    <string name="setdate">setDate</string>
+    <string name="settime">setTime</string>
+</resources>
